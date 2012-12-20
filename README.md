@@ -1,12 +1,12 @@
-﻿<h1 class="componentheading">
-	Ketvirtas darbas</h1></div>
-<div id="rokdownloads">
-
+﻿<html>
+<body>
+<div>
+<h1>Ketvirtas darbas</h1>
 	
 	<h3>Laboratorinis darbas: Duomenų struktūrų kūrimas pasirinktam ADT</h3>
 	
-	<div class="rd_desc rd_full">
-		<p><p>Šis darbas yra išskirtinis, atliekamas savarankiškai, laboratorinių darbų grafike laikas neskiriamas. Jis skirtas įtvirtinti žinias, gautas pirmų trijų darbų metu. Galima naudotis interneto šaltiniais. <strong>Tačiau dėstytojui nustačius, kad studentas bando pristatyti kitų autorių atliktą darbą, yra skiriamos nuobaudos neigiamų vertinimų būdu.</strong></p>
+
+		<p>Šis darbas yra išskirtinis, atliekamas savarankiškai, laboratorinių darbų grafike laikas neskiriamas. Jis skirtas įtvirtinti žinias, gautas pirmų trijų darbų metu. Galima naudotis interneto šaltiniais. <strong>Tačiau dėstytojui nustačius, kad studentas bando pristatyti kitų autorių atliktą darbą, yra skiriamos nuobaudos neigiamų vertinimų būdu.</strong></p>
 <p><span style="text-decoration: underline;"><strong>Darbo tikslai:</strong></span></p>
 <ol>
 <li>Išmokti kurti naujas bendro naudojimo duomenų struktūrų klases pagal duotą (pasirinktą) ADT aprašą ;</li>
@@ -34,6 +34,6 @@
 <p>Galimų duomenų struktūrų sąrašas (tikslesni aprašai su paieška "data structures" + vardas):</p>
 <p style="padding-left: 60px;">•    Stack - realizuota pavyzdyje<br />•    Queue- maksimalus balas 5<br />•    Deque- maksimalus balas 5<br />•    Doubly linked list - max 7<br />•    Priority queue<br />•    Bit array            •    Dynamic array      •    Circular buffer<br />•    Sparse array     •    Sparse matrix    <br />•    Set - įvairūs varijantai     •    Multiset<br />•    Unrolled linked list         •    VList         •    Skip list</p>
 <p>Rūšiavimo metodų realizacija nurodoma atskirai ir priklauso nuo struktūros pobūdžio.<br />Pavyzdyje pateiktas steko klasės dviejų realizacijos variantų projektas.</p>
-	</div>
-	
 </div>
+</body>
+</html>
